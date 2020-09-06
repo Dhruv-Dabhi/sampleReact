@@ -1,0 +1,16 @@
+.button1 {
+	margin: 10px;
+	margin-left: 25%;
+	background-color: #F2E68F;
+	width: 50%;
+}
+
+.back {
+	background-color: #22C6F0;
+}
+
+.center{
+	align-items: center;
+	justify-content: center;
+	display: flex;  
+}
